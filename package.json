@@ -1,11 +1,22 @@
 {
-  "name": "environment",
+  "name": "@wmemorgan/environment",
   "version": "1.0.0",
   "description": "___        ______     ____ _                 _  ___           / \\ \\      / / ___|   / ___| | ___  _   _  __| |/ _ \\         / _ \\ \\ /\\ / /\\___ \\  | |   | |/ _ \\| | | |/ _` | (_) |       / ___ \\ V  V /  ___) | | |___| | (_) | |_| | (_| |\\__, |      /_/   \\_\\_/\\_/  |____/   \\____|_|\\___/ \\__,_|\\__,_|  /_/   -----------------------------------------------------------------",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Wilfred Morgan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmemorgan/npm-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmemorgan/npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/wmemorgan/npm-tutorial#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
