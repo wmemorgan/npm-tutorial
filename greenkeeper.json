@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        ".c9/metadata/environment/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
